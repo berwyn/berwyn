@@ -1,4 +1,13 @@
-### Hi there 👋
+### A horse, of course!
+- He/Him
+- 🇨🇦 / 🇺🇸
+- 🔭 I’m currently working on
+    - [ferroboy](https://github.com/berwyn/ferroboy), my Gameboy emulator written in Rust! It's a fun and educational experience!
+- 👯 I’m looking to collaborate on
+    - 🦀 All things Rust!
+    - 🎮 Gamedev
+- 🤔 I’m looking for help with
+    - The same as above!
 
 <!--
 **berwyn/berwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
