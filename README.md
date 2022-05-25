@@ -8,3 +8,5 @@
     - 🎮 Gamedev
 - 🤔 I’m looking for help with
     - The same as above!
+- 🙅 Things I will not interact with
+    - blockchain / cryptocurrency / "web 3.0". Do not contact me, I don't want to participate in your scam.
